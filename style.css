@@ -244,3 +244,7 @@ font-weight: 500;
     width: 277px;
     height: 180px;
 }
+.card-price-2{
+    color: #909090 !important;
+    background:transparent!important;
+}
